@@ -11,8 +11,8 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "Not Julius"
+  avatar           : "https://scontent-lax3-2.xx.fbcdn.net/v/t1.18169-9/155855_185120438168604_376160_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=tBE7iUSTrLgAX_M2Kzy&_nc_ht=scontent-lax3-2.xx&oh=72a9e5d1ff8d8cf16d038212fa3fd042&oe=61CE82DA"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
-  email            :
+  email            : "bruh@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
